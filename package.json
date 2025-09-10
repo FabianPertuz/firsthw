@@ -1,0 +1,17 @@
+{
+  "name": "commander-projects",
+  "version": "1.0.0",
+  "description": "Interactive console application with Commander.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["console", "commander", "inquirer", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "inquirer": "^8.2.5"
+  }
+}
